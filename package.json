@@ -65,9 +65,6 @@
   },
   "dependencies": {
     "@types/sax": "^1.2.7",
-    "commander": "^12.1.0",
-    "debug": "^4.3.6",
-    "glob": "^11.0.0",
     "sax": "^1.4.1",
     "svg-pathdata": "^7.0.0",
     "transformation-matrix": "^3.0.0",
@@ -116,9 +113,6 @@
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/nfroidure/svgicons2svgfont/issues"
-  },
-  "bin": {
-    "svgicons2svgfont": "bin/svgicons2svgfont.js"
   },
   "files": [
     "dist",
