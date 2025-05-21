@@ -65,6 +65,7 @@
   },
   "dependencies": {
     "@types/sax": "^1.2.7",
+    "debug": "^4.4.1",
     "sax": "^1.4.1",
     "svg-pathdata": "^7.0.0",
     "transformation-matrix": "^3.0.0",
@@ -72,7 +73,7 @@
   },
   "devDependencies": {
     "@eslint/js": "^9.7.0",
-    "@swc/cli": "^0.4.0",
+    "@swc/cli": "^0.7.7",
     "@swc/core": "^1.6.13",
     "@swc/helpers": "^0.5.12",
     "@swc/jest": "^0.2.36",
