@@ -24,7 +24,7 @@
       ]
     }
   },
-  "name": "svgicons2svgfont",
+  "name": "svgicons2svgfont-nocli",
   "version": "15.0.1",
   "description": "Read a set of SVG icons and output a SVG font",
   "homepage": "https://github.com/nfroidure/svgicons2svgfont",
